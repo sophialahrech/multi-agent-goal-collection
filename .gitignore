@@ -3,6 +3,9 @@ out-docker/
 out/
 cache/
 
+# Claude Code
+.claude/
+
 # Pycharm
 .idea/
 
